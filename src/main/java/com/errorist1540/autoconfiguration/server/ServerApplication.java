@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Errorist1540AutoConfigurationServerApplication {
+public class ServerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Errorist1540AutoConfigurationServerApplication.class, args);
+        SpringApplication.run(ServerApplication.class, args);
     }
-
 }
